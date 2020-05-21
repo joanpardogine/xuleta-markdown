@@ -42,4 +42,15 @@ Tot en negreta i cursiva | ```*** ***``` | | ```***Tot aquest text és important
 
 <details>
  <summary>Cita de text</summary>
+Pots citar text amb un >.
+ 
+ 
+ ```
+ Tal com va dir Abfaham Lincoln
+ > Pardon my French
+ ```
+ 
+ Tal com va dir Abfaham Lincoln
+ > Pardon my French
+ 
 </details>
