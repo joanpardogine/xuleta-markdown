@@ -2,6 +2,8 @@
 
 Crear formats sofisticats per a la teva prosa i codi en GitHub amb sintaxi simple.
 
+---
+
 <details>
  <summary>Capçaleres</summary>
 Per crear una capçalera, afegeix 1-6 símbols # abans de la capçalera del text.
@@ -22,9 +24,9 @@ La quantitat de # que fas servir determinarà la mida de la capçalera.
 #### La quarta capçalera més gran equival a \<H4> d'HTML
 ##### La segona capçalera més petita equival a \<H5> d'HTML
 ###### La capçalera més petita equival a \<H6> d'HTML
-  
-  
 </details>
+
+---
 
 <details>
  <summary>Estil de text</summary>
@@ -40,6 +42,8 @@ Tot en negreta i cursiva | ```*** ***``` | | ```***Tot aquest text és important
 
 </details>
 
+---
+
 <details>
  <summary>Cita de text</summary>
 Pots citar text amb un >.
@@ -54,3 +58,5 @@ Pots citar text amb un >.
  > Pardon my French
  
 </details>
+
+---
