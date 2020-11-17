@@ -37,7 +37,7 @@ estil&nbsp; | sintaxi&nbsp; &nbsp; | Drecera del teclat&nbsp; &nbsp; &nbsp; &nbs
 negreta | ```** **``` o ```__ __``` | Ctrl + b | ```**Aquest text està en negreta**``` | **Aquest text està en negreta**
 cursiva | ```* *``` o ```_ _``` | Ctrl + i | ```*Aquest text està en cursiva*``` | *Aquest text està en cursiva*
 ratllat | ```~~ ~~``` | Content | ```~~Aquest text està malament~~``` | ~~Aquest text està malament~~
-Cursiva en negreta i niada | ```** **``` i ```__ __``` | | ```**Aquest text és __extremadament__ important**``` | **Aquest text és __extremadament_ important**
+Cursiva en negreta i niada | ```** **``` i ```__ __``` | | ```**Aquest text és _extremadament_ important**``` | **Aquest text és _extremadament_ important**
 Tot en negreta i cursiva | ```*** ***``` | | ```***Tot aquest text és important***``` | ***Tot aquest text és important***
 
 </details>
